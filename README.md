@@ -1,5 +1,5 @@
 # JAYLAN LEE
-Resume can be found in the root directory as ``resume.pdf``. 
+Resume can be found in the root directory as ``resume.pdf``. The template for this resume was taken from [https://www.faangpath.com/](https://www.faangpath.com/) and the Overleaf template can be found [here](https://www.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc).
 
 ## How to build
 Source to build resume is in ``/src``. 
